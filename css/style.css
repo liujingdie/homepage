@@ -328,11 +328,13 @@ ol.type li a:hover {
 	-o-transform: scale(1.1);
 	transform: scale(1.1);
 }
-.portfolio-item .hover-bg {
+/*.portfolio-item .hover-bg {
 	height: 260px;
 	overflow: hidden;
 	position: relative;
-}
+}*/
+
+/*show the name when hover*/
 .hover-bg .hover-text {
 	position: absolute;
 	text-align: center;
