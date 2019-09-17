@@ -660,9 +660,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-top: 20px;
 }
 section {
-	padding: 120px 0;
+	padding: 120px 0;  /*Q1: used for?*/
 }
-header .intro-text {
+header .intro-text {  /*Q2: .intro-text necessary?*/
 	padding-top: 300px;
 	padding-bottom: 200px;
 }
